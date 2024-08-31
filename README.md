@@ -1,5 +1,5 @@
 
-SQL_Project_Music_Store_AnalysiS
+SQL_Project_Music_Store_Analysis
 
 
 Postgre SQL,
